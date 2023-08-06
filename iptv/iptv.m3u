@@ -33,50 +33,51 @@ http://91.197.104.34:8080/TNTHD/video.m3u8
 #EXTINF:-1 ,МАТЧ HD
 http://91.197.104.34:8080/MatchHD/video.m3u8
 
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+EXTGRP:"ЭФИРНЫЕ"
+#EXTINF:-1,Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+#EXTINF:-1,Россия 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
+#EXTINF:-1,Матч!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+#EXTINF:-1,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+#EXTINF:-1,Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+#EXTINF:-1,Россия К
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+#EXTINF:-1,Россия 24
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+#EXTINF:-1,Карусель
 http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+#EXTINF:-1,ОТР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+#EXTINF:-1,ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+#EXTINF:-1,РЕН ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+#EXTINF:-1,СПАС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+#EXTINF:-1,СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+#EXTINF:-1,Домашний
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+#EXTINF:-1,ТВ3
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+#EXTINF:-1,Пятница!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+#EXTINF:-1,Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+#EXTINF:-1,МИР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+#EXTINF:-1,ТНТ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+#EXTINF:-1,МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="РАДИО",Вести ФМ
+EXTGRP:"Радио"
+#EXTINF:-1,Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1 group-title="РАДИО",Маяк
+#EXTINF:-1,Маяк
 http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1 group-title="РАДИО",Радио России
+#EXTINF:-1,Радио России
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
