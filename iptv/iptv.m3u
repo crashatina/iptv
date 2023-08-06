@@ -32,3 +32,51 @@ http://91.197.104.34:8080/friday/video.m3u8
 http://91.197.104.34:8080/TNTHD/video.m3u8
 #EXTINF:-1 ,МАТЧ HD
 http://91.197.104.34:8080/MatchHD/video.m3u8
+
+
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="РАДИО",Вести ФМ
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Маяк
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Радио России
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
