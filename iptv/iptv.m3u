@@ -1,1 +1,42 @@
-
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
+EXTGRP:"Федеральные Каналы"
+#EXTINF:-1,Первый канал
+http://tv.ttk.mx:9000
+#EXTINF:-1,Россия 1
+http://tv.ttk.mx:9001
+#EXTINF:-1 tvg-name="Матч ТВ" epgid="!2060",Матч ТВ
+http://tv.ttk.mx:9002
+#EXTINF:-1,НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 tvg-name="Пятый канал" epgid="!963",Пятый канал
+http://tv.ttk.mx:9004
+#EXTINF:-1 tvg-name="Россия Культура" epgid="!1139",Россия Культура
+http://tv.ttk.mx:9005
+#EXTINF:-1,Россия 24
+http://tv.ttk.mx:9006
+#EXTINF:-1 tvg-name="Карусель" epgid="!1162",Карусель
+http://tv.ttk.mx:9007
+#EXTINF:-1 tvg-name="ОТР" epgid="!1670",ОТР
+http://tv.ttk.mx:9008
+#EXTINF:-1 tvg-name="ТВЦ" epgid="!1389",ТВЦ
+http://tv.ttk.mx:9009
+#EXTINF:-1 tvg-name="РЕН ТВ" epgid="!1158",РЕН ТВ
+http://tv.ttk.mx:9010
+#EXTINF:-1,Спас ТВ
+http://tv.ttk.mx:9011
+#EXTINF:-1 tvg-name="СТС" epgid="!1112",СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1 tvg-name="Домашний" epgid="!1051",Домашний
+http://tv.ttk.mx:9013
+#EXTINF:-1 tvg-name="ТВ-3" epgid="!1383",ТВ-3
+http://tv.ttk.mx:9014
+#EXTINF:-1 tvg-name="Пятница" epgid="!1671",Пятница
+http://tv.ttk.mx:9015
+#EXTINF:-1,Звезда
+http://tv.ttk.mx:9016
+#EXTINF:-1 tvg-name="Мир" epgid="!717",Мир
+http://tv.ttk.mx:9017
+#EXTINF:-1,ТНТ
+http://tv.ttk.mx:9018
+#EXTINF:-1,Муз-ТВ
+http://tv.ttk.mx:9019
