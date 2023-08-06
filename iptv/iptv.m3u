@@ -22,23 +22,13 @@ http://tv.ttk.mx:9008
 http://tv.ttk.mx:9009
 #EXTINF:-1 ,РЕН ТВ HD
 http://91.197.104.34:8080/rentv/video.m3u8
-#EXTINF:-1,Спас ТВ
-http://tv.ttk.mx:9011
 #EXTINF:-1 ,СТС HD
 http://91.197.104.34:8080/CTCHD/video.m3u8
-#EXTINF:-1 tvg-name="Домашний" epgid="!1051",Домашний
-http://tv.ttk.mx:9013
 #EXTINF:-1 ,ТВ3 HD
 http://91.197.104.34:8080/tv3/video.m3u8
 #EXTINF:-1 ,ПЯТНИЦА HD
 http://91.197.104.34:8080/friday/video.m3u8
-#EXTINF:-1,Звезда
-http://tv.ttk.mx:9016
-#EXTINF:-1 tvg-name="Мир" epgid="!717",Мир
-http://tv.ttk.mx:9017
 #EXTINF:-1 ,ТНТ HD
 http://91.197.104.34:8080/TNTHD/video.m3u8
-#EXTINF:-1,Муз-ТВ
-http://tv.ttk.mx:9019
 #EXTINF:-1 ,МАТЧ HD
 http://91.197.104.34:8080/MatchHD/video.m3u8
