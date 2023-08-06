@@ -1,37 +1,4 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
-EXTGRP:"Федеральные Каналы"
-#EXTINF:-1,Первый канал
-http://tv.ttk.mx:9000
-#EXTINF:-1,Россия 1
-http://tv.ttk.mx:9001
-#EXTINF:-1 tvg-name="Матч ТВ" epgid="!2060",Матч ТВ
-http://tv.ttk.mx:9002
-#EXTINF:-1,НТВ
-http://tv.ttk.mx:9003
-#EXTINF:-1 tvg-name="Пятый канал" epgid="!963",Пятый канал
-http://tv.ttk.mx:9004
-#EXTINF:-1 tvg-name="Россия Культура" epgid="!1139",Россия Культура
-http://tv.ttk.mx:9005
-#EXTINF:-1,Россия 24
-http://tv.ttk.mx:9006
-#EXTINF:-1 tvg-name="Карусель" epgid="!1162",Карусель
-http://tv.ttk.mx:9007
-#EXTINF:-1 tvg-name="ОТР" epgid="!1670",ОТР
-http://tv.ttk.mx:9008
-#EXTINF:-1 tvg-name="ТВЦ" epgid="!1389",ТВЦ
-http://tv.ttk.mx:9009
-#EXTINF:-1 ,РЕН ТВ HD
-http://91.197.104.34:8080/rentv/video.m3u8
-#EXTINF:-1 ,СТС HD
-http://91.197.104.34:8080/CTCHD/video.m3u8
-#EXTINF:-1 ,ТВ3 HD
-http://91.197.104.34:8080/tv3/video.m3u8
-#EXTINF:-1 ,ПЯТНИЦА HD
-http://91.197.104.34:8080/friday/video.m3u8
-#EXTINF:-1 ,ТНТ HD
-http://91.197.104.34:8080/TNTHD/video.m3u8
-#EXTINF:-1 ,МАТЧ HD
-http://91.197.104.34:8080/MatchHD/video.m3u8
 
 EXTGRP:"ЭФИРНЫЕ"
 #EXTINF:-1,Первый канал
@@ -74,6 +41,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1,МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+
 EXTGRP:"Радио"
 #EXTINF:-1,Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
