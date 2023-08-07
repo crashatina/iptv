@@ -78,6 +78,26 @@ http://109.200.135.130:8080/khl/index.m3u8
 #EXTINF:-1,KHL Prime HD
 http://109.200.135.130:8080/khl_hd/index.m3u8
 
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD CEE
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/20069/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/5075/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/228/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Eurosport 1 orig
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/9247/index.m3u8
+
+#EXTINF:0 tvg-rec="7",Eurosport 1
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/141/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD CEE
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/20070/index.m3u8
+
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD orig
+http://baefb22b.ucomist.net/iptv/X2QNFHL35MF388/5076/index.m3u8
 
 EXTGRP:"Радио"
 #EXTINF:-1,Вести ФМ
