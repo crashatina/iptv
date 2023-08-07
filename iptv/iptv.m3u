@@ -1,14 +1,14 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
 
 EXTGRP:"ЭФИРНЫЕ"
-#EXTINF:-1,Первый канал
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_RD_1TV/variant.m3u8
+#EXTINF:-1,Первый канал HD
+http://109.200.135.130:8080/ort_hd/index.m3u8
 #EXTINF:-1,Россия 1
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_RD_ROSSIA1/variant.m3u8
 #EXTINF:-1,Матч!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
+http://109.200.135.130:8080/match_hd/index.m3u8
 #EXTINF:-1,НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+http://109.200.135.130:8080/ntv_hd/index.m3u8
 #EXTINF:-1,Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1,Россия К
