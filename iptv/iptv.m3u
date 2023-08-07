@@ -4,7 +4,7 @@ EXTGRP:"ЭФИРНЫЕ"
 #EXTINF:-1,Первый канал
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_RD_1TV/variant.m3u8
 #EXTINF:-1,Россия 1
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_RD_1TV/variant.m3u8
 #EXTINF:-1,Матч!
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
 #EXTINF:-1,НТВ
