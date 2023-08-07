@@ -5,9 +5,9 @@ EXTGRP:"ЭФИРНЫЕ"
 http://109.200.135.130:8080/ort_hd/index.m3u8
 #EXTINF:-1,Россия 1
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_RD_ROSSIA1/variant.m3u8
-#EXTINF:-1,Матч!
+#EXTINF:-1,Матч! HD
 http://109.200.135.130:8080/match_hd/index.m3u8
-#EXTINF:-1,НТВ
+#EXTINF:-1,НТВ HD
 http://109.200.135.130:8080/ntv_hd/index.m3u8
 #EXTINF:-1,Пятый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
