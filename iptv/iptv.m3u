@@ -42,6 +42,43 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1,МУЗ ТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
 
+EXTGRP:"Общие"
+#EXTINF:-1,Че
+http://109.200.135.130:8080/che/index.m3u8
+
+EXTGRP:"Спорт"
+#EXTINF:-1,Старт HD
+http://109.200.135.130:8080/start_hd/index.m3u8
+#EXTINF:-1,Конный мир
+http://109.200.135.130:8080/konniy_mir/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://109.200.135.130:8080/motorsport/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://109.200.135.130:8080/arena/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://109.200.135.130:8080/match_igra_hd/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://109.200.135.130:8080/match-igra/index.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://109.200.135.130:8080/nash_football_hd/index.m3u8
+#EXTINF:-1,Матч! Премьер
+http://109.200.135.130:8080/nash-football/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://109.200.135.130:8080/arena_hd/index.m3u8
+#EXTINF:-1,Телеканал Футбол HD
+http://109.200.135.130:8080/football/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://109.200.135.130:8080/football1_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://109.200.135.130:8080/football2_hd/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://109.200.135.130:8080/football3_hd/index.m3u8
+#EXTINF:-1,KHL HD
+http://109.200.135.130:8080/khl/index.m3u8
+#EXTINF:-1,KHL Prime HD
+http://109.200.135.130:8080/khl_hd/index.m3u8
+
+
 EXTGRP:"Радио"
 #EXTINF:-1,Вести ФМ
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
