@@ -16,9 +16,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
 #EXTINF:-1,Россия 24
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
 #EXTINF:-1,Карусель
-#EXT-X-VERSION:2
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
-http://a787201472-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_KARUSEL/variant.m3u8
 #EXTINF:-1,ОТР
 http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1,ТВЦ
