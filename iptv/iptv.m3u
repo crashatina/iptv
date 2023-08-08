@@ -1,50 +1,76 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
 
-EXTGRP:"ЭФИРНЫЕ"
-#EXTINF:-1,Первый канал HD
-http://109.200.135.130:8080/ort_hd/index.m3u8
-#EXTINF:-1,Россия 1
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_RD_ROSSIA1/variant.m3u8
-#EXTINF:-1,Матч! HD
-http://109.200.135.130:8080/match_hd/index.m3u8
-#EXTINF:-1,НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1,Россия К
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1,Россия 24
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1,Карусель
-https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_RD_KARUSEL/variant.m3u8
-#EXTINF:-1,ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1,ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1,РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1,СПАС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1,СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1,Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1,ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1,Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1,Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1,МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1,ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1,МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-
 EXTGRP:"Общие"
-#EXTINF:-1,Че
-http://109.200.135.130:8080/che/index.m3u8
+#EXTINF:-1,Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1,Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://vgtrkregion.cdnvideo.ru/vgtrk/simferopol/russia1sd/playlist_sdhigh.m3u8
+#EXTINF:-1,Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1,Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1,Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1,Первый канал HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_1TV/variant.m3u8
+#EXTINF:-1,Россия 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_ROSSIA1/variant.m3u8
+#EXTINF:-1,ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1,ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1,ТВЦ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8
+#EXTINF:-1,МАТЧ!
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1,РОССИЯ К
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1,ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1,Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+#EXTINF:-1,Че!
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1,Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1,СТС
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8
+#EXTINF:-1,REN TV
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1,НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8
+#EXTINF:-1,СПАС
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1,МИР
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1,Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1,ТВ3
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
+
 
 EXTGRP:"Спорт"
 #EXTINF:-1,Старт HD
