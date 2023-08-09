@@ -75,7 +75,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
 EXTGRP:"Спорт"
 #EXTINF:-1,Старт HD
 http://109.200.135.130:8080/start_hd/index.m3u8
-
 #EXTINF:-1,Матч Страна
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,Матч! Игра
@@ -122,6 +121,55 @@ https://bal.varcdn.top/lb/Eurosport1/index.m3u8
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
 #EXTINF:-1,Eurosport 2
 https://bal.varcdn.top/lb/Eurosport2/index.m3u8
+
+
+EXTGRP:"Кино"
+#EXTINF:-1,НТВ-Хит HD
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1,Кинеко HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1,Любимое кино
+http://91.233.215.250:7272/JS7lUbMstASMl0r
+#EXTINF:-1,Киносерия HD
+http://109.200.135.130:8080/mnogo-tv/index.m3u8
+#EXTINF:-1,Киномикс
+http://188.143.128.24:30000/play/a47/index.m3u8 
+#EXTINF:-1,Киномикс HD
+http://109.200.135.130:8080/kinomix/index.m3u8
+#EXTINF:-1,Кинокомедия HD
+http://109.200.135.130:8080/komediya/index.m3u8
+#EXTINF:-1,Кино ТВ HD 
+http://109.200.135.130:8080/kino_tv_hd/index.m3u8
+#EXTINF:-1,Наше новое кино HD
+http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
+#EXTINF:-1,Дом кино
+http://109.200.135.130:8080/dom_kino/index.m3u8
+#EXTINF:-1,Родное кино
+http://109.200.135.130:8080/nashe-kino/index.m3u8
+#EXTINF:-1,Русский роман
+http://31.134.132.245:8080/russki_roman_hd/index.m3u8
+#EXTINF:-1,Мир сериала
+http://91.220.135.165:81/72/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1,Суббота! HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция 
+http://109.200.135.130:8080/mosfilm/index.m3u8
+#EXTINF:-1,Победа
+http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
+#EXTINF:-1,Победа HD
+http://31.134.132.245:8080/pobeda_hd/index.m3u8
+#EXTINF:-1,.black 
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1,Индийское кино 
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Start Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1,Start World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1,A1 HD
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1,A2 HD
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 
 
 EXTGRP:"Радио"
