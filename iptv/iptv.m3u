@@ -75,22 +75,25 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
 EXTGRP:"Спорт"
 #EXTINF:-1,Старт HD
 http://109.200.135.130:8080/start_hd/index.m3u8
-#EXTINF:-1,Конный мир
-http://109.200.135.130:8080/konniy_mir/index.m3u8
-#EXTINF:-1,Моторспорт ТВ
-http://109.200.135.130:8080/motorsport/index.m3u8
-#EXTINF:-1,Матч! Арена
-http://109.200.135.130:8080/arena/index.m3u8
-#EXTINF:-1,Матч! Игра HD
-http://109.200.135.130:8080/match_igra_hd/index.m3u8
+
+#EXTINF:-1,Матч Страна
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,Матч! Игра
 http://109.200.135.130:8080/match-igra/index.m3u8
-#EXTINF:-1,Матч! Премьер HD
-http://109.200.135.130:8080/nash_football_hd/index.m3u8
-#EXTINF:-1,Матч! Премьер
-http://109.200.135.130:8080/nash-football/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://109.200.135.130:8080/match_igra_hd/index.m3u8
+#EXTINF:-1,Бокс ТВ
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Матч! Боец
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+#EXTINF:-1,Матч! Арена
+http://109.200.135.130:8080/arena/index.m3u8
 #EXTINF:-1,Матч! Арена HD
 http://109.200.135.130:8080/arena_hd/index.m3u8
+#EXTINF:-1,Матч! Премьер
+http://109.200.135.130:8080/nash-football/index.m3u8
+#EXTINF:-1,Матч! Премьер HD
+http://109.200.135.130:8080/nash_football_hd/index.m3u8
 #EXTINF:-1,Телеканал Футбол HD
 http://109.200.135.130:8080/football/index.m3u8
 #EXTINF:-1,Матч! Футбол 1 HD
@@ -99,6 +102,12 @@ http://109.200.135.130:8080/football1_hd/index.m3u8
 http://109.200.135.130:8080/football2_hd/index.m3u8
 #EXTINF:-1,Матч! Футбол 3 HD
 http://109.200.135.130:8080/football3_hd/index.m3u8
+#EXTINF:-1,Мир баскетбола
+http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
+#EXTINF:-1,Конный мир
+http://109.200.135.130:8080/konniy_mir/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://109.200.135.130:8080/motorsport/index.m3u8
 #EXTINF:-1,KHL HD
 http://109.200.135.130:8080/khl/index.m3u8
 #EXTINF:-1,KHL Prime HD
