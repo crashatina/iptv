@@ -131,14 +131,26 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
 #EXTINF:-1,Любимое кино
 http://91.233.215.250:7272/JS7lUbMstASMl0r
 #EXTINF:-1,Киносерия HD
-http://109.200.135.130:8080/mnogo-tv/index.m3u8
+https://tbs01-edge11.itdc.ge/kinoseria/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Киномикс
-http://188.143.128.24:30000/play/a47/index.m3u8 
+https://tbs01-edge11.itdc.ge/kinomiks/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Киномикс HD
 http://109.200.135.130:8080/kinomix/index.m3u8
+#EXTINF:-1 ,КИНОХИТ
+https://tbs01-edge11.itdc.ge/kinohit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кинокомедия
+https://tbs01-edge11.itdc.ge/kinokomediya/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинокомедия HD
 http://109.200.135.130:8080/komediya/index.m3u8
-#EXTINF:-1,Кино ТВ HD 
+#EXTINF:-1 ,Киноужас
+https://tbs01-edge11.itdc.ge/kinoujas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+https://tbs01-edge11.itdc.ge/kinopremyerahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+https://tbs01-edge11.itdc.ge/interesnoetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Индийское кино 
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Кино ТВ HD
 http://109.200.135.130:8080/kino_tv_hd/index.m3u8
 #EXTINF:-1,Наше новое кино HD
 http://109.200.135.130:8080/nashe-novoe-kino/index.m3u8
@@ -149,7 +161,7 @@ http://109.200.135.130:8080/nashe-kino/index.m3u8
 #EXTINF:-1,Русский роман
 http://31.134.132.245:8080/russki_roman_hd/index.m3u8
 #EXTINF:-1,Мир сериала
-http://91.220.135.165:81/72/tracks-v1a1v1/playlist.m3u8
+https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Суббота! HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция 
@@ -158,18 +170,25 @@ http://109.200.135.130:8080/mosfilm/index.m3u8
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1,Победа HD
 http://31.134.132.245:8080/pobeda_hd/index.m3u8
+#EXTINF:-1 ,НСТ
+https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,.black 
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
-#EXTINF:-1,Индийское кино 
-https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Start Air HD
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1,Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 ,A1
+https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 ,A2
+https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,A2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 ,Hollywood HD
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+
 
 
 EXTGRP:"Радио"
