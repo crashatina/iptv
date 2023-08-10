@@ -75,7 +75,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8
 EXTGRP:"Спорт"
 #EXTINF:-1,Старт HD
 http://109.200.135.130:8080/start_hd/index.m3u8
-#EXTINF:-1,Матч Страна
+#EXTINF:-1,Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,Матч! Игра
 http://109.200.135.130:8080/match-igra/index.m3u8
