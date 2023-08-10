@@ -34,7 +34,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8
 #EXTINF:-1,МАТЧ!
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1,РОССИЯ К
+#EXTINF:-1,Россия К
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 #EXTINF:-1,ПЯТЫЙ КАНАЛ
@@ -52,7 +52,7 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1,СТС
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS/variant.m3u8
-#EXTINF:-1,REN TV
+#EXTINF:-1,РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1,НТВ
@@ -170,7 +170,7 @@ http://109.200.135.130:8080/mosfilm/index.m3u8
 http://streamer1.ruslanatv.ru/russia/pobeda_sd_new_2023/playlist.m3u8
 #EXTINF:-1,Победа HD
 http://31.134.132.245:8080/pobeda_hd/index.m3u8
-#EXTINF:-1 ,НСТ
+#EXTINF:-1,НСТ
 https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,.black 
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
@@ -178,15 +178,15 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1,Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:-1 ,Amedia1
+#EXTINF:-1,Amedia1
 https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Amedia1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
-#EXTINF:-1 ,Amedia2
+#EXTINF:-1,Amedia 2
 https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Amedia2 HD
+#EXTINF:-1,Amedia 2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
-#EXTINF:-1 ,Hollywood HD
+#EXTINF:-1,Hollywood HD
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 
 EXTGRP:"Познавательные"
