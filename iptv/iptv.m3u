@@ -224,6 +224,8 @@ https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
 https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Звезда Плюс 
 http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
+#EXTINF:-1 ,Discovery HD
+rtmp://178.159.112.198//discovery
 
 
 EXTGRP:"Радио"
