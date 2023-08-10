@@ -34,9 +34,8 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TVC/variant.m3u8
 #EXTINF:-1,МАТЧ!
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1,Россия К
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 ,РОССИЯ К
+https://tbs01-edge11.itdc.ge/russiaculture/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ПЯТЫЙ КАНАЛ
 #EXTVLCOPT:http-user-agent=WINK/1.34.1
 https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
