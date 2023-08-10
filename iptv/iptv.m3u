@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1  tvg-logo="http://46.151.151.245/logo/%name%.png"
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 
 EXTGRP:"Общие"
 #EXTINF:-1,Первый канал
