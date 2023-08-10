@@ -178,13 +178,13 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
 https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
 #EXTINF:-1,Start World HD
 https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
-#EXTINF:-1 ,A1
+#EXTINF:-1 ,Amedia1
 https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A1 HD
+#EXTINF:-1,Amedia1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
-#EXTINF:-1 ,A2
+#EXTINF:-1 ,Amedia2
 https://tbs01-edge11.itdc.ge/amedia2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,A2 HD
+#EXTINF:-1,Amedia2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 ,Hollywood HD
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
