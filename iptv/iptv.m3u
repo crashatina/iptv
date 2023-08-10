@@ -189,6 +189,41 @@ http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 #EXTINF:-1 ,Hollywood HD
 https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
 
+EXTGRP:"Познавательные"
+#EXTINF:-1,RTG HD
+http://109.200.135.130:8080/rtg_hd/index.m3u8
+#EXTINF:-1,RTG HD
+http://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 ,HD Life
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Дикий
+http://31.184.194.43:8000/play/a003
+#EXTINF:-1,365 дней ТВ 
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Viju Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1,Доктор
+https://tbs01-edge11.itdc.ge/doctor/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Охота и рыбалка
+https://tbs01-edge11.itdc.ge/ohotairibalka/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Рыболов
+http://109.200.135.130:8080/ohotnik/index.m3u8
+#EXTINF:-1,Terra
+http://109.200.135.130:8080/natgeo/index.m3u8
+#EXTINF:-1,Terra HD
+http://109.200.135.130:8080/natgeo_hd/index.m3u8
+#EXTINF:-1,Terra HD
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1,Авто Плюс
+https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Авто плюс
+http://109.200.135.130:8080/avto_plus/index.m3u8
+#EXTINF:-1,Авто 24
+https://tbs01-edge11.itdc.ge/auto24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Travel+Adventure HD
+https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Звезда Плюс 
+http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 
 
 EXTGRP:"Радио"
