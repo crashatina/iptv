@@ -226,8 +226,6 @@ https://tbs01-edge11.itdc.ge/viasatnat/tracks-v1a1/mono.m3u8
 http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 #EXTINF:-1,Discovery
 https://cdn-cache01.voka.tv:443/live/5115.m3u8 
-#EXTINF:-1,Discovery HD 
-http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
 
 EXTGRP:"Радио"
