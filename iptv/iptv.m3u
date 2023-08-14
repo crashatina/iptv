@@ -226,6 +226,53 @@ http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 #EXTINF:-1,Discovery
 https://cdn-cache01.voka.tv:443/live/5115.m3u8 
 
+
+EXTGRP:"Детские"
+#EXTINF:-1,Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1,Мульт
+http://109.200.135.130:8080/mult/index.m3u8
+#EXTINF:-1,Мульт HD
+http://109.200.135.130:8080/thlum_hd/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://109.200.135.130:8080/strana/index.m3u8
+#EXTINF:-1 ,ДЕТСКИЙ МИР
+https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС kids HD
+http://109.200.135.130:8080/sts_kids/index.m3u8
+#EXTINF:-1 ,О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+#EXTINF:-1 ,Nick Jr
+http://91.233.215.250:7272/Jke5tdvCxp2Yhs6
+#EXTINF:-1 ,Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:-1,Nicktoons
+http://a68bca8c.ucomist.net/iptv/AFG38B35SUMBYE/849/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://live-3.otcnet.ru/Gulli_OT/index.m3u8
+#EXTINF:-1 ,Tiji TV
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8
+#EXTINF:-1,2x2
+http://109.200.135.130:8080/2x2/index.m3u8
+#EXTINF:-1,Уникум
+http://109.200.135.130:8080/detskiy/index.m3u8
+#EXTINF:-1,Мама
+http://109.200.135.130:8080/mama/index.m3u8
+#EXTINF:-1,СуперГерои 
+http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1,Лëва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1,В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1,Капитан Фантастика HD
+http://31.211.77.158:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Мультиландия 
+http://217.107.34.114:8008/playlist.m3u8 
+#EXTINF:-1 group-title="Мультсериалы", Мультиландия HD
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+
+
 EXTGRP:"Музыка"
 #EXTINF:-1,Bridge TV
 https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
