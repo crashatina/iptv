@@ -226,6 +226,40 @@ http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 #EXTINF:-1,Discovery
 https://cdn-cache01.voka.tv:443/live/5115.m3u8 
 
+EXTGRP:"Музыка"
+#EXTINF:-1,Bridge TV
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+#EXTINF:-1,Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1,Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1,Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1,Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1,Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1,Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/chunklist.m3u8
+#EXTINF:-1,RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1,Муз-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1,ТНТ Music
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_sdhigh.m3u8
+#EXTINF:-1,ТНТ Music HD
+http://okko-media.cdnvideo.ru/live/okko/tntmusic/hls/playlist_hdhigh.m3u8
+#EXTINF:-1,Europa plus tv HD
+http://109.200.135.130:8080/europa-plus-tv/index.m3u8
+
+
 
 EXTGRP:"Радио"
 #EXTINF:-1,Вести ФМ
