@@ -194,8 +194,8 @@ http://109.200.135.130:8080/rtg_hd/index.m3u8
 http://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 ,HD Life
 https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Дикий
-http://31.184.194.43:8000/play/a003
+#EXTINF:-1,Дикий 
+http://217.107.34.114:8007/playlist.m3u8
 #EXTINF:-1,365 дней ТВ 
 https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Viju Nature HD
