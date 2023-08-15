@@ -112,10 +112,6 @@ http://109.200.135.130:8080/khl/index.m3u8
 http://109.200.135.130:8080/khl_hd/index.m3u8
 
 #EXTINF:-1,Eurosport 1
-https://bal.varcdn.top/lb/Eurosport1/index.m3u8
-#EXTINF:-1 group-title="Мультиспорт", Eurosport 1 HD
-http://europe3.livetv.az/russia/eurosport1_sd_2023/playlist.m3u8
-#EXTINF:-1 group-title="Мультиспорт", Eurosport 1
 http://45.144.31.195:8016/playlist.m3u8
 
 #EXTINF:-1,Eurosport 2
