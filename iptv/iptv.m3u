@@ -116,9 +116,40 @@ http://45.144.31.195:8016/playlist.m3u8
 
 #EXTINF:-1,Eurosport 2
 http://91.233.215.250:7272/4TViUcJR91U6Lzr
-#EXTINF:-1 group-title="Мультиспорт", Eurosport 2 HD 
+#EXTINF:-1,Eurosport 2 HD 
 http://streamer1.ruslanatv.ru/russia/eurosport2_hd_2023/playlist.m3u8
 
+EXTGRP:"Спорт Резерв"
+#EXTINF:-1 ,СТАРТ HD
+http://193.33.88.172/start_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ФУТБОЛ HD 
+http://193.33.88.172/football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч! ФУТБОЛ 1 HD 
+http://193.33.88.172/football1_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч! ФУТБОЛ 2 HD 
+http://193.33.88.172/football2_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Матч! ФУТБОЛ 3 HD 
+http://193.33.88.172/football3_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КОННЫЙ МИР
+http://193.33.88.172/konniy_mir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ ТВ
+http://193.33.88.172/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ HD
+http://193.33.88.172/match_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! ИГРА
+http://193.33.88.172/match-igra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! АРЕНА
+http://193.33.88.172/arena/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ! АРЕНА HD
+http://193.33.88.172/arena_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР
+http://193.33.88.172/nash-football/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР HD
+http://193.33.88.172/nash_football_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,КХЛ
+http://193.33.88.172/khl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,KHL HD
+http://193.33.88.172/khl_hd/tracks-v1a1/mono.m3u8
 
 
 EXTGRP:"Кино"
@@ -225,6 +256,21 @@ http://109.200.135.130:8080/zvezda_plus_hd/index.m3u8
 #EXTINF:-1,Discovery HD 
 http://45.159.74.14:80/DiscoveryChannel/tracks-v1a2/mono.m3u8
 
+EXTGRP:"Viju"
+#EXTINF:-1,Viju TV1000 HD
+https://bl.uma.media/live/485542/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju TV1000 Action HD
+https://bl.uma.media/live/485541/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju+ Megahit HD
+https://bl.uma.media/live/485537/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju+ Premiere HD
+https://bl.uma.media/live/485536/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju+ Comedy HD
+https://bl.uma.media/live/485539/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju TV1000 Русское HD
+https://bl.uma.media/live/485543/HLS/12128000_3/4/4/playlist.m3u8?
+#EXTINF:-1,Viju+ Serial HD
+https://bl.uma.media/live/485540/HLS/12128000_3/4/4/playlist.m3u8?
 
 EXTGRP:"Детские"
 #EXTINF:-1,Карусель
