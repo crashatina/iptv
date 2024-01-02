@@ -1,6 +1,27 @@
 #EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
 
-EXTGRP:"Общие"
-#EXTINF:-1,Первый канал
-#EXTVLCOPT:http-user-agent=WINK/1.34.1
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
+EXTGRP:"Эфирные"
+#EXTINF:-1 ,Первый канал HD (Outside)
+https://er-cdn.ertelecom.ru/os/video/hls/d1cc31b408ad4c2458dd5e009db13730c18ba3411df1216e6b8f5b7ccdaed01f1a904d99e5150cfa137507b4d6e7062221c094bca81f4026846a9a8b761790fd6af7a39847735253d86ba5f3950e9861f18798e32d6c4a436e2f371e2c21b19ceb2e7ac067d5b6dd139ba16fbc0f19fb86ead87db38698d7f9da81ffdb9cd219336bc58ce26d43cf7309f37f353682785177a2c7f0bae10fffb8e4069164ff3749dd287924609ca0a99291308003a5147486c560f9156778fcba278a870676f58e93617618272a7f3338c135e46c60ac67e4391149111cd4ebf19d8454eca920a26a02a9f5262d579c9e7bc981f47ea898830a8ddfabb92502e25475cd6ad78610ee91bd15c214afd163180d6875dcc7/playlist.m3u8
+#EXTINF:-1 ,Первый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
+#EXTINF:-1 ,Россия 1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1 ,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1 ,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2
+#EXTINF:-1 ,Мир
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:-1 ,ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 ,Звезда
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1 ,ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
+#EXTINF:-1 ,Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1 ,Домашний
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2
+#EXTINF:-1 ,Россия К
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2
