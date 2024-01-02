@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+
+EXTGRP:"Общие"
+#EXTINF:-1,Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.34.1
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
