@@ -1,0 +1,632 @@
+#EXTM3U catchup="yandex_tv" catchup-days="21" catchup-source="?start=${start}"
+#EXTINF:-1 group-title="Кино",.black
+http://strm.yandex.ru/kal/sony_turbo/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c7486d47117fc71e99ec5682e8dc19b8}
+#EXTINF:-1 group-title="Кино",.red
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sony_channel/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=60e44d7b243f5867e1508c2a20fa5ddd}
+#EXTINF:-1 group-title="Кино",.sci-fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sony_sci_fi/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1e0b396c6a856093abff79a110425f19}
+#EXTINF:-1 group-title="Развлекательные",2х2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные",360° ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 group-title="Информационные",360° Новости ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 group-title="Познавательные",365 дней ТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/365dneytv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=19549978f456b8ddbf2e2b04b758396e}
+#EXTINF:-1 group-title="Кино",A1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/a1/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=601e2aeb699d1e31375c095ded14665b}
+#EXTINF:-1 group-title="Кино",A2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/a2/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=688933829c84c697701448e81e65e4ad}
+#EXTINF:-1 group-title="Кино",AMEDIA Hit ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/amedia_hit/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c1c16efd0479db5912dc575d877f922c}
+#EXTINF:-1 group-title="Кино",AMEDIA Premium ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/amedia_premium/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=76de08654ec571884edbbe9aa139ac9b}
+#EXTINF:-1 group-title="Детские",Ani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ani/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b0672bc36118ba6a1df9f46b563d4d61}
+#EXTINF:-1 group-title="Детские",BABY TIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 group-title="Кино",Bollywood ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE Deluxe ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE HITS ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE Русский Хит ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE ROCK ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Музыка",BRIDGE Шлягер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/cartoon_classics/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8bd4acd2b4d11ca18bc1c0a73e461bc8}
+#EXTINF:-1 group-title="Кино",Cinema ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/cinema/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=358ba67830da204b57766a20e7eee02d}
+#EXTINF:-1 group-title="Познавательные",CuriosityStream ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/curiosity_stream/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fdc8f4c298e1488175da897ace067644}
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/da_vinci/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=24f1053bacd6583bfe3aab51c7dd5789}
+#EXTINF:-1 group-title="Детские",Duck TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="Развлекательные",E TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/e_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f0f14f189a76c7073340fb7c690fdc20}
+#EXTINF:-1 group-title="Познавательные",English Class ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/english_class_belarus/english_class_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",Epic ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/epic/epic0.m3u8
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 group-title="Кино",FAN ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/fan/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=522696e750f6708ca402d4b7edbf7f3e}
+#EXTINF:-1 group-title="Развлекательные",FashionTV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/fashion_tv/manifest.mpd
+#EXTINF:-1 group-title="Познавательные",FoodTime ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/eda_premium/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=42fc540ab557b0f9984f7c5d6f5767ff}
+#EXTINF:-1 group-title="Познавательные",HDL ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/hdl/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1dc42cac7b89bbcc8729aba7fe3c7eb7}
+#EXTINF:-1 group-title="Кино",Hollywood ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",Insight TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/insight/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ceaaa1a1768715d686a1c9c4f75ef263}
+#EXTINF:-1 group-title="Спорт",KHL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",KHL ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/khl_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9bf2978995bd3f5710262e4d24da6fb9}
+#EXTINF:-1 group-title="Спорт",KHL Prime ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/khl_praim/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ebcab9b3ace3be0a4b0a3e167e76ffd2}
+#EXTINF:-1 group-title="Спорт",MMA-TV.com ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mma_tv_com/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c0ad8f19453873a80a6123a621a4e3b7}
+#EXTINF:-1 group-title="Музыка",MUSIC BOX GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыка",MUSIC BOX RUSSIAN ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean-TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",Okko Спорт ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/okko_sport_24_7/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=80679bc47fb01a2a7abe2305ea775d20}
+#EXTINF:-1 group-title="Кино",Plan B ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/planb/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e9c05b023b6b8668a105d9aa0fd6771a}
+#EXTINF:-1 group-title="Кино",Romance Channel ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/romance/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=937c948988408d3e9d89f57e4c090ed0}
+#EXTINF:-1 group-title="Познавательные",RTG ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 group-title="Спорт",Russian Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",Russian Extreme ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russkiy_extrim/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a8e50ea271745e8a328bf66b94f3d476}
+#EXTINF:-1 group-title="Кино",SHOT TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/shot_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5373b22b526f84d231891e7ed1df07f3}
+#EXTINF:-1 group-title="Кино",START Air ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/start_air/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c7251d06594455849dc0fa25044bacd1}
+#EXTINF:-1 group-title="Кино",START World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/start_world/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a5931b347efc94cad8f66d4355431e59}
+#EXTINF:-1 group-title="Кино",Suspense ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/suspense/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d7c37ed7b8c0354cc22b908e31724760}
+#EXTINF:-1 group-title="Познавательные",TERRA ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ngc_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b38b0d478b49ea6c2d76291fa9943020}
+#EXTINF:-1 group-title="Детские",TiJi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",Timeless Dizi Channel ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",viju+ Comedy ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/vip_comedy/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9f093981fc65aa5a62621933e25e95b8}
+#EXTINF:-1 group-title="Кино",VHS-KA ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/vhs_ka_belarus/vhs_ka0.m3u8
+#EXTINF:-1 group-title="Познавательные",viju Explore ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/viasat_explore/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=970bc0eeba59ad902a566c01f119d873}
+#EXTINF:-1 group-title="Познавательные",viju History ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/viasat_history/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9c95952203cd438e1a2caa72e21da3b3}
+#EXTINF:-1 group-title="Кино",viju+ Megahit ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/vip_megahit/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a1afc4dde8f84f445544c92721747c8c}
+#EXTINF:-1 group-title="Познавательные",viju Nature ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/viasat_nature/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c48913c9fe80bc5fcee540f466139990}
+#EXTINF:-1 group-title="Познавательные",viju+ Planet ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/viasat_nature_history/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c6b04fe2f735eb6057d428822bb531fa}
+#EXTINF:-1 group-title="Кино",viju+ Premiere ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/vip_premiere/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9dc0449bf93c85b6045a635f98edf6ef}
+#EXTINF:-1 group-title="Кино",viju+ Serial ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/vip_serial/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cd690ed28dafefdf77ce04ba44d32847}
+#EXTINF:-1 group-title="Спорт",viju+ Sport ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/viasat_sport/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a268d97bf892127a44836f4a98fb28fd}
+#EXTINF:-1 group-title="Кино",viju TV1000 action ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tv1000_action/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9d4389c52532857352b0ec6462b0137d}
+#EXTINF:-1 group-title="Кино",viju TV1000 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tv1000/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c447c72c61f80b42e8d46cb3618b8c53}
+#EXTINF:-1 group-title="Кино",viju TV1000 русское ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tv1000_russian_movies/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=33dfb3e30b039236d392e0777e28fde8}
+#EXTINF:-1 group-title="Познавательные",Авто Плюс ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/avto_plus_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=acb324b9cf79a2ff7d032dd8780b7ffd}
+#EXTINF:-1 group-title="Познавательные",Арсенал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",Арсенал ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/arsenalarsenal/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ac920c425fc5c48c6d7ebe0a19d74019}
+#EXTINF:-1 group-title="Спорт",Беларусь 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 group-title="Иностранные",Беларусь 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/belarus24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3ed6833570c41b54ea371cdfe74ef93f}
+#EXTINF:-1 group-title="Кино",Блокбастер ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/blokbaster/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9a92aa7e4dfe4e69ea99b68600c08817}
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",Бокс ТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/box_tv_plus/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9aee77d688c0707dc72a5fb4d7c699d3}
+#EXTINF:-1 group-title="Детские",В гостях у сказки ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Познавательные",В мире животных ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/v_mire_zhivotnykh/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=80f8d20880a5963cb38303c922d53c83}
+#EXTINF:-1 group-title="Кино",День Победы ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/den_pobedy/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4007d10aaf76a25e1bde95d1dc5dfdec}
+#EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 group-title="Познавательные",Доктор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/doktor/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3b264fb67c7bf2ed50b05797e9373e8c}
+#EXTINF:-1 group-title="Федеральные",Домашний ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/domashniy_new/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=67050bf8b48954b749fcd1641b5f0e21}
+#EXTINF:-1 group-title="Кино",Дорама ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/dorama/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e45607ac21a9c47c804f3e9812da656e}
+#EXTINF:-1 group-title="Познавательные",Еда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/eda/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0f03f24bc1037ee9298588b103ce5d8a}
+#EXTINF:-1 group-title="Познавательные",Живая Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zhivaya_planeta/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=26107df377f57280ea4f7cdec6b6c48d}
+#EXTINF:-1 group-title="Развлекательные",ЖиВи! ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zhivi_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=45eddb957bb1fa04a0b88a2c0ef5ae5d}
+#EXTINF:-1 group-title="Познавательные",Загородный International ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zagorodnyint/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ba92b87d65ebd16193576443b243dc41}
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 group-title="Федеральные",Звезда ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zvezda/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f7b413b13317c3ef8de616882610a9c2}
+#EXTINF:-1 group-title="Познавательные",Звезда Плюс ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zvezda_plus_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4e0e7faa764dd899494d44bbe32bdf65}
+#EXTINF:-1 group-title="Кино",Индийское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/indiiskoe_kino/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=03bfea7d0d85f392b20433fa2168dc4c}
+#EXTINF:-1 group-title="Кино",Индия ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/zee_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1b123c3e7d3ac2af45fffac0288cae0f}
+#EXTINF:-1 group-title="Познавательные",История
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/istoriya/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1b77e0b690c05b3443730cb2ea468264}
+#EXTINF:-1 group-title="Кино",Камеди ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kamedi/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=dab72bbbba615ff46f673b6a3acda3de}
+#EXTINF:-1 group-title="Детские",Капитан Фантастика ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kapitan_fantastika/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9fe702ef5c882a3ea53fecdd24bac14b}
+#EXTINF:-1 group-title="Детские",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/karusel/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=70873378d15b792e51c4398d2fb26fa0}
+#EXTINF:-1 group-title="Развлекательные",КВН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kvn_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bb840142f8417685ee8f26c632af55dc}
+#EXTINF:-1 group-title="Кино",КИНЕКО ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/fox_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=44988d583bad584ec5f32c393f83343c}
+#EXTINF:-1 group-title="Кино",Кино ТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinotv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=287daaa04a84053a633c16e0a2de0f1e}
+#EXTINF:-1 group-title="Кино",Киноман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОКОМЕДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОКОМЕДИЯ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinokomedia_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4511286c9d089d26477e7d54ada7ff70}
+#EXTINF:-1 group-title="Кино",КИНОМИКС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОМИКС ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinomix/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=6c2f8162e31eebd71310316b0672c6fd}
+#EXTINF:-1 group-title="Кино",Кинопоиск К1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinopoisk_k1/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c89470e0803bacea6655336575cb4bbf}
+#EXTINF:-1 group-title="Кино",Кинопоказ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinopokaz/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9fd1d3ee69ad5b3bb6df67fd21d635d9}
+#EXTINF:-1 group-title="Кино",КИНОПРЕМЬЕРА ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinopremera/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=fc7ef0ae7afca6adc9936eef56fd5b03}
+#EXTINF:-1 group-title="Кино",КИНОСВИДАНИЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОСВИДАНИЕ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinosvidanie_rus/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d01d74f34e26043eb58c29b8754a7e36}
+#EXTINF:-1 group-title="Кино",КИНОСЕМЬЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОСЕМЬЯ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinosemia/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=81c03e3f0dddee431b386f3d6523e12d}
+#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОСЕРИЯ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinoseriya/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c3adfbd934f726dc3df323a968d84cb1}
+#EXTINF:-1 group-title="Кино",Киноужас ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinouzhas/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=72cd9e6fd304cae32854949145580f3a}
+#EXTINF:-1 group-title="Кино",КИНОХИТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",КИНОХИТ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kinohit/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4cbe6aae0d73d0695809725830574ef9}
+#EXTINF:-1 group-title="Кино",Комедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/komedia/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=678c9f0d904bf3e58416555253f0f1c7}
+#EXTINF:-1 group-title="Познавательные",Кто есть кто
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kto_est_kto/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=1edc4f35e818af3a7c1e764c49ccdcf3}
+#EXTINF:-1 group-title="Познавательные",Кухня
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kuhnya_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=030aae265d53d563e180a22123bc3665}
+#EXTINF:-1 group-title="Детские",Лёва ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Музыка",Ля-минор
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/lya_minor/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=93a6553e252b50b863ca6ac8f21b919b}
+#EXTINF:-1 group-title="Федеральные",Матч! ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_tv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bdb588d78930a7388123e89739668e16}
+#EXTINF:-1 group-title="Спорт",Матч! Арена ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_arena/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f656ecb1844625b8b81fd04f98720378}
+#EXTINF:-1 group-title="Спорт",Матч! Боец ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_boetc/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ae427360cbc063d4c734193acb5283be}
+#EXTINF:-1 group-title="Спорт",Матч! Игра ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_igra/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8cea4036f9d209264b4127ea3232bf7f}
+#EXTINF:-1 group-title="Спорт",Матч! Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Премьер ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_premier_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=62543d4b069c2f533e1f24088c0af9be}
+#EXTINF:-1 group-title="Спорт",Матч! Страна ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_strana/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=48626771a04e7e360d781d9245f1bf99}
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_football1_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=dba0dccffba1b26f658ec85a616102e8}
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_football2_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=76e139c0676ed2d7ae46392ce6fd9e89}
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/match_football3_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f2e7cb0fcdfb6a3fc0299eed50d29c97}
+#EXTINF:-1 group-title="Федеральные",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 group-title="Информационные",Мир 24 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 group-title="Федеральные",Мир ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mir/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4a7d21474d9cef88cdb82ea5a0b7f541}
+#EXTINF:-1 group-title="Информационные",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
+#EXTINF:-1 group-title="Кино",Мосфильм. Золотая коллекция ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mosfilm_zk/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cd55d935d0032bfa04ff9dd297ad61e8}
+#EXTINF:-1 group-title="Познавательные",Моя Планета ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/moya_planeta/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f8400d54a197445a648a0d6032680105}
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",МУЖСКОЕ КИНО ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/muzhskoe_kino_rus/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=0a3b463d43cc9f0cb97eda5a95405ed6}
+#EXTINF:-1 group-title="Мужские",Мужской
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/muztv_v2/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b5cb6e41d14e42600f4ffed8b88ba358}
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 group-title="Детские",МУЛЬТ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/mult/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=4f04389c01752f07f8f1e71cb678f9c9}
+#EXTINF:-1 group-title="Детские",Мультиландия ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 group-title="Детские",Мультимузыка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/multimuzyka/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9e4e6ab22eac8bb6764f2cfe83344c8e}
+#EXTINF:-1 group-title="Познавательные",Мы ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/my/my0.m3u8
+#EXTINF:-1 group-title="Кино",Настоящее Страшное Телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nstv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=42a406a0c6621cf4bd226974e8fd84e0}
+#EXTINF:-1 group-title="Познавательные",Наука ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nauka/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=bf41851c27043be9a340e82916d00ad0}
+#EXTINF:-1 group-title="Кино",Наш Кинопоказ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nash_kinopokaz/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=ce10d289320521385da15a7b0d1f7562}
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nasha_sibir/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b0ee061f9826f7a45019217ef0feb763}
+#EXTINF:-1 group-title="Кино",Наше Мужское
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nashe_muzhskoe/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=e57373e5eced0baff431f78f93c4a19a}
+#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 group-title="Кино",НАШЕ НОВОЕ КИНО ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nashe_novoye_kino/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=016234ca3d5e4ab8e9d31b30e257d486}
+#EXTINF:-1 group-title="Познавательные",Неизвестная Россия ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/neizvestnaia_rossia/neizvestnaia_rossia0.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ностальгия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/nostalgiya/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a601c0845ed7f8a558155b026cd7275c}
+#EXTINF:-1 group-title="Федеральные",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 group-title="Федеральные",НТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ntv_msk/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=595d5f6993b4291796a61d64a6263d57}
+#EXTINF:-1 group-title="Познавательные",НТВ Право
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Сериал ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Познавательные",НТВ Стиль ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит ᴴᴰ
+8u3m.0tih_vtn/tih_vtn/lak/ur.xednay.mrts//:sptth
+#EXTINF:-1 group-title="Федеральные",ОТР ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/otr/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=53e06f3683a70d7e003db1b846bccefb}
+#EXTINF:-1 group-title="Мужские",Охотник и рыболов ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ohotneyk_i_rybolov/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5913354fe0f27e0ee172da532d82f641}
+#EXTINF:-1 group-title="Федеральные",Первый канал ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/1tvch/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b879c915a79fb6fd0ef2df8558b0c472}
+#EXTINF:-1 group-title="Познавательные",Первый космический ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/pervyi_kosmicheskii/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=8c54ccb05a16c88b3e2520cf0838e198}
+#EXTINF:-1 group-title="Познавательные",Приключения ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/pricliuchenia/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=2f02bfdb11df075cadf9ad79340f0d8c}
+#EXTINF:-1 group-title="Кино",Про любовь ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/pro_lubov/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c206bb1184c7620a5b4a778fa0deb153}
+#EXTINF:-1 group-title="Развлекательные",Продвижение ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/prodvizhenie/prodvizhenie0.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница! ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/pyatniza/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a6c3668e51fc89546cb3c890c3a18484}
+#EXTINF:-1 group-title="Федеральные",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/5_channel/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=27d4a0d06e4b680f5a5b49cefae558c6}
+#EXTINF:-1 group-title="Информационные",РБК ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rbc/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=725d9f5d88bb69d3dd6eda77ed4453fd}
+#EXTINF:-1 group-title="Федеральные",РЕН ТВ ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rentv_0/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=965df11a6d6e0486a843b03402536c00}
+#EXTINF:-1 group-title="Кино",РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rodnoye_kino/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=c58ea8ff73a9f07ed25fe142407337cd}
+#EXTINF:-1 group-title="Федеральные",Россия 1 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russia1/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=45e2a837313776f7e92414b812a368e9}
+#EXTINF:-1 group-title="Федеральные",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russia24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9275f04a7a16795d443deaf4985d8fdf}
+#EXTINF:-1 group-title="Федеральные",Россия К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/kultura/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=5066e5ad3b3ad3f583c8957d96d7aa7e}
+#EXTINF:-1 group-title="Кино",Русский бестселлер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russkiy_bestseller/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=efffdf4cfa387fc7b2f1a43ea135a001}
+#EXTINF:-1 group-title="Кино",Русский детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russkiy_detektiv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9cde6042cc117e5e6a06fc0ce927d91b}
+#EXTINF:-1 group-title="Кино",Русский Роман ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/russkiyroman/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=92f9362e318d097cb780415834f4edd6}
+#EXTINF:-1 group-title="Мужские",Рыболов ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/rybolov/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7b5bb6913fc249607a501dcab19fc8df}
+#EXTINF:-1 group-title="Кино",САПФИР ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/fox_live_hd/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=9fd5a67daf0fd4c37c35dc4b78b67933}
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sarafan/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=53ceb451b18554d0baf692e59155630b}
+#EXTINF:-1 group-title="Познавательные",Совершенно секретно
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="Детские",СОЛНЦЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/disney/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=3e30cbcd8833ba72841f07e6ea34db98}
+#EXTINF:-1 group-title="Познавательные",СПАС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/spas/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=f4111d7466fd017e60012260ee55760c}
+#EXTINF:-1 group-title="Спорт",Спортивный ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sportivnyi/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d6a2a47692192bcc7c5385dd4384af0f}
+#EXTINF:-1 group-title="Спорт",Старт ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт",Старт Триумф ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/start_triumf/utv0.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sts/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=17addfff430722b3db2f2ace502a5089}
+#EXTINF:-1 group-title="Детские",СТС Kids ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ctckids/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=7b17266f295f70768b9f4423a5ff0637}
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/sts_love/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=cabb22a8d64a10a2a14c303ec0c2041a}
+#EXTINF:-1 group-title="Детские",СуперГерои
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/malysh_tvsuper_heroes/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=87cc86fb475557d5f7eca3b18e22b21f}
+#EXTINF:-1 group-title="Познавательные",Т24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/t24/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=a5e555bfb1880915775863cbee2456cd}
+#EXTINF:-1 group-title="Познавательные",Тайны Галактики ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tvcentr_0/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=284bc68d0e1058af82447ce0f639b3fe}
+#EXTINF:-1 group-title="Федеральные",ТВ-3 ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tv3/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=268abe60629092bcb7b26e0bd526ba9e}
+#EXTINF:-1 group-title="Федеральные",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tnt_vitrina/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=559e408dc39572969217b2c9a163014f}
+#EXTINF:-1 group-title="Музыка",ТНТ MUSIC ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Спорт",УДАР ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/futbol/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=67996e101ebc5d9a8a7a970ffe09dc4e}
+#EXTINF:-1 group-title="Спорт",Футбольный ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/futbolnyi/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b5f229c170f980b201adabcf816e38d3}
+#EXTINF:-1 group-title="Кино",Хит ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/hit/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=564dc863038a1f6b804a73cbbc14ce18}
+#EXTINF:-1 group-title="Спорт",Хоккейный ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/hokkeinyi/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=df12d9f89c7fdea50cd1642338cb1aa6}
+#EXTINF:-1 group-title="Познавательные",Центральное телевидение
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/ctv/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=43eaf5d09cfa0c98692b95b6d1632ab4}
+#EXTINF:-1 group-title="Развлекательные",Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/che/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=b95a29ade03d434f81769662ef224f80}
+#EXTINF:-1 group-title="Детские",Чижик ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/chizhik/manifest.mpd$OPT:adaptive-use-avdemux$OPT:avdemux-options={decryption_key=d01d74f34e26043eb58c29b8754a7e36}
+#EXTINF:-1 group-title="Развлекательные",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; Linux; Smart TV) AppleWebKit/537.36 (KHTML, like Gecko) Thano/3.0 Chrome/98.0.4758.101 Safari/537.36
+http://strm.yandex.ru/kal/utv/utv0.m3u8
